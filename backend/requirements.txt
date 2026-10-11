@@ -1,0 +1,6 @@
+fastapi==0.110.0
+uvicorn[standard]==0.29.0
+pm4py==2.7.11.11
+pandas==2.2.2
+boto3==1.34.79
+python-multipart==0.0.9
